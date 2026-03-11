@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoArithmeticOperators", "DemoArithmeticOperators\DemoArithmeticOperators.csproj", "{295B5202-0AFF-41AF-87D4-9722DFD1EC98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Convertor USD to EUR", "1.Convertor USD to EUR\1.Convertor USD to EUR.csproj", "{2D4603C5-771D-4575-8E98-97E0F79A9B28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Four Operations", "2. Four Operations\2. Four Operations.csproj", "{7553D92C-1F74-4781-9050-445C9576E3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Market", "3. Market\3. Market.csproj", "{528A2B26-9CBD-4DEB-88D8-1C7EE6409010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Tiles", "4. Tiles\4. Tiles.csproj", "{5DE5A2E2-AA6D-4C80-A462-024A7DB5D00C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Deposit Calculator", "5. Deposit Calculator\5. Deposit Calculator.csproj", "{4ED9EFF4-1D3C-4FE5-AC3A-FD9D89AA5ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295B5202-0AFF-41AF-87D4-9722DFD1EC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295B5202-0AFF-41AF-87D4-9722DFD1EC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295B5202-0AFF-41AF-87D4-9722DFD1EC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295B5202-0AFF-41AF-87D4-9722DFD1EC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4603C5-771D-4575-8E98-97E0F79A9B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4603C5-771D-4575-8E98-97E0F79A9B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4603C5-771D-4575-8E98-97E0F79A9B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4603C5-771D-4575-8E98-97E0F79A9B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7553D92C-1F74-4781-9050-445C9576E3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7553D92C-1F74-4781-9050-445C9576E3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7553D92C-1F74-4781-9050-445C9576E3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7553D92C-1F74-4781-9050-445C9576E3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528A2B26-9CBD-4DEB-88D8-1C7EE6409010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528A2B26-9CBD-4DEB-88D8-1C7EE6409010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528A2B26-9CBD-4DEB-88D8-1C7EE6409010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528A2B26-9CBD-4DEB-88D8-1C7EE6409010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE5A2E2-AA6D-4C80-A462-024A7DB5D00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE5A2E2-AA6D-4C80-A462-024A7DB5D00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE5A2E2-AA6D-4C80-A462-024A7DB5D00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE5A2E2-AA6D-4C80-A462-024A7DB5D00C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED9EFF4-1D3C-4FE5-AC3A-FD9D89AA5ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED9EFF4-1D3C-4FE5-AC3A-FD9D89AA5ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED9EFF4-1D3C-4FE5-AC3A-FD9D89AA5ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED9EFF4-1D3C-4FE5-AC3A-FD9D89AA5ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C720D496-0FB9-4506-93D2-A67F8AE95F2A}
+	EndGlobalSection
+EndGlobal

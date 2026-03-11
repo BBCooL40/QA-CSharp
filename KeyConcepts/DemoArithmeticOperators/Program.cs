@@ -1,0 +1,10 @@
+﻿int a = 5;
+int b = 6;
+int sum = a + b;
+//Console.WriteLine(sum);
+double number = 5.45354;
+Console.WriteLine(Math.Round(number));
+Console.WriteLine(Math.Floor(number));
+Console.WriteLine(Math.Ceiling(number));
+Console.WriteLine(Math.Round(number, 5));
+Console.WriteLine($"{number:F5}");
