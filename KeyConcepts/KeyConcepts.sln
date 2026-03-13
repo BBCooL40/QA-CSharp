@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Tiles", "4. Tiles\4. Til
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Deposit Calculator", "5. Deposit Calculator\5. Deposit Calculator.csproj", "{4ED9EFF4-1D3C-4FE5-AC3A-FD9D89AA5ED1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Mandatory Literature", "6. Mandatory Literature\6. Mandatory Literature.csproj", "{0B8EE825-F3AA-4EEF-8F1E-CF5F222B18E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Supplies for School", "7. Supplies for School\7. Supplies for School.csproj", "{87F34A9F-8940-4134-BC71-58C1FFF00DAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{4ED9EFF4-1D3C-4FE5-AC3A-FD9D89AA5ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ED9EFF4-1D3C-4FE5-AC3A-FD9D89AA5ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ED9EFF4-1D3C-4FE5-AC3A-FD9D89AA5ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8EE825-F3AA-4EEF-8F1E-CF5F222B18E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8EE825-F3AA-4EEF-8F1E-CF5F222B18E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8EE825-F3AA-4EEF-8F1E-CF5F222B18E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8EE825-F3AA-4EEF-8F1E-CF5F222B18E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F34A9F-8940-4134-BC71-58C1FFF00DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F34A9F-8940-4134-BC71-58C1FFF00DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F34A9F-8940-4134-BC71-58C1FFF00DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F34A9F-8940-4134-BC71-58C1FFF00DAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
